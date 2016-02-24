@@ -1,4 +1,4 @@
-a`
+Hello from the other side young padawan.`
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
@@ -10,6 +10,5 @@ a`
 #
 # Changes to be committed:
 #	new file:   weektaak 1.txt
-#
-# Untracked filesa``
+#	new file:   weektaak.txt
 #
