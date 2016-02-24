@@ -1,0 +1,6 @@
+1a beter sequencen: sneller, meer data (betrouwbaarder) goedkoper
+1b 2e generatie is PCR based. 3e generatie single molecule. 2e generatie kort (100bp), 3e generatie langere reads (~kp)
+3e generatie heeft 15% hoger foutpercentage ten opzichte van de 2e generatie.
+1c tegen elkaar mappen in plaats van tegen een referentie genoom. Je krijgt CONTIG's -> Scaffolds
+1d Sequence depth is hoevaak je met de gesquencte data het genoom opnieuw kan maken
+1e repeats geven een probleem bij het assembleren
